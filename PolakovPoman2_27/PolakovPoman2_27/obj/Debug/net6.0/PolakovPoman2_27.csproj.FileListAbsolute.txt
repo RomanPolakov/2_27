@@ -1,0 +1,15 @@
+C:\Users\djang\source\repos\PolakovPoman2_27\PolakovPoman2_27\bin\Debug\net6.0\PolakovPoman2_27.exe
+C:\Users\djang\source\repos\PolakovPoman2_27\PolakovPoman2_27\bin\Debug\net6.0\PolakovPoman2_27.deps.json
+C:\Users\djang\source\repos\PolakovPoman2_27\PolakovPoman2_27\bin\Debug\net6.0\PolakovPoman2_27.runtimeconfig.json
+C:\Users\djang\source\repos\PolakovPoman2_27\PolakovPoman2_27\bin\Debug\net6.0\PolakovPoman2_27.dll
+C:\Users\djang\source\repos\PolakovPoman2_27\PolakovPoman2_27\bin\Debug\net6.0\PolakovPoman2_27.pdb
+C:\Users\djang\source\repos\PolakovPoman2_27\PolakovPoman2_27\obj\Debug\net6.0\PolakovPoman2_27.csproj.AssemblyReference.cache
+C:\Users\djang\source\repos\PolakovPoman2_27\PolakovPoman2_27\obj\Debug\net6.0\PolakovPoman2_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djang\source\repos\PolakovPoman2_27\PolakovPoman2_27\obj\Debug\net6.0\PolakovPoman2_27.AssemblyInfoInputs.cache
+C:\Users\djang\source\repos\PolakovPoman2_27\PolakovPoman2_27\obj\Debug\net6.0\PolakovPoman2_27.AssemblyInfo.cs
+C:\Users\djang\source\repos\PolakovPoman2_27\PolakovPoman2_27\obj\Debug\net6.0\PolakovPoman2_27.csproj.CoreCompileInputs.cache
+C:\Users\djang\source\repos\PolakovPoman2_27\PolakovPoman2_27\obj\Debug\net6.0\PolakovPoman2_27.dll
+C:\Users\djang\source\repos\PolakovPoman2_27\PolakovPoman2_27\obj\Debug\net6.0\refint\PolakovPoman2_27.dll
+C:\Users\djang\source\repos\PolakovPoman2_27\PolakovPoman2_27\obj\Debug\net6.0\PolakovPoman2_27.pdb
+C:\Users\djang\source\repos\PolakovPoman2_27\PolakovPoman2_27\obj\Debug\net6.0\PolakovPoman2_27.genruntimeconfig.cache
+C:\Users\djang\source\repos\PolakovPoman2_27\PolakovPoman2_27\obj\Debug\net6.0\ref\PolakovPoman2_27.dll
